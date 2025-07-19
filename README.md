@@ -15,7 +15,7 @@ Tautan: [Spesifikasi Task 2D Shape Side Matching](https://docs.google.com/docume
 
 Shape Side Matching itu intinya apakah dua buah benda memiliki suatu sisi yang cocok untuk disambungkan. Contoh bentuk-bentuk puzzle jigsaw kan ada yang cocok ada yang tidak cocok nah gimana cara kita bisa tau? Tentunya banyak.
 
-Nah pada tugas ini Anda diminta untuk memakai metode Computer Vision dan string similarity untuk akhirnya dapat menemukan suatu shape Y yang paling cocok sisinya dengan shape X. Plot twist, untuk optimasi, maka kita akan menggunakan DnC.
+Nah pada tugas ini Anda diminta untuk membuat web sebagai solusinya. Anda akan memakai metode Computer Vision, string similarity, DP untuk akhirnya dapat menemukan suatu shape Y yang paling cocok sisinya dengan shape X. Tidak hanya itu, kita akan menggunakan DnC sebagai metode optimasi.
 
 ## 🧩 Spesifikasi Wajib (Max 2700 Poin)
 
