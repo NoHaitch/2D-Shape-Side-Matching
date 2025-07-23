@@ -56,9 +56,10 @@ Nah pada tugas ini Anda diminta untuk membuat web sebagai solusinya. Anda akan m
 | -------------------------------- | ------- |
 | Docker                           | 100     |
 | Deploy full app (FE+BE+DB)       | 200     |
-| Output gabungan gambar           | 200     |
+| Output gabungan gambar           | 300     |
 | Color similarity on edges        | 500     |
 | Speed challenge (top 3 tercepat) | 100–300 |
+| follow akun github | 10      |
 
 ## 📂 Pengerjaan dan Pengumpulan
 
