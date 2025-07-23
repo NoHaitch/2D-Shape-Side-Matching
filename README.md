@@ -4,7 +4,8 @@
 
 version **23 Juli 2025**
 
-**IMPORTANT** SPEK YANG JADI PATOKAN ADALAH SPEK PADA GOOGLE DOCS!!!  
+**IMPORTANT** SPEK YANG JADI PATOKAN ADALAH SPEK PADA GOOGLE DOCS!!!   
+Untuk isi Readme ini, bisa dibilang summary sangat singkat ;)  
 Tautan: [Spesifikasi Task 2D Shape Side Matching](https://docs.google.com/document/d/1UPctVxxkW7ja9wHAhP--Q0Ap2XpT4ESxrg8td5NTxFs/edit?tab=t.0)
 
 <div align="center">
@@ -22,9 +23,8 @@ Nah pada tugas ini Anda diminta untuk membuat web sebagai solusinya. Anda akan m
 ### 🔧 Tech Stack
 
 - **Frontend**: Web-based dengan _JS-based framework_ dan menggunakan **TypeScript**
-- **Backend**: Bebas, harus support pemrosesan gambar dan concurrency
-- **Database**: SQL-based (PostgreSQL, MariaDB, SQLite, dsb). Gunakan ORM
-- _(Opsional)_ Cloud Object Storage (Firebase, Vercel Blob, AWS, dll)
+- **Backend**: Bebas, harus bisa support pemrosesan gambar dan concurrency
+- **Database**: SQL-based (PostgreSQL, MariaDB, SQLite, dsb). Disarankan ORM, boleh pake cloud (Firebase, AWS, etc)
 
 ### 🖼️ Computer Vision
 
@@ -41,7 +41,6 @@ Nah pada tugas ini Anda diminta untuk membuat web sebagai solusinya. Anda akan m
 ### 🪓 Divide and Conquer
 
 - Optimasi pencocokan shape menggunakan DnC
-- Gunakan ide _resolusi rendah → resolusi tinggi_
 
 ### 🚀 Concurrency
 
